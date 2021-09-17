@@ -4,6 +4,7 @@
 
 
 Вероятность выживания Leo		13,54%
+
 Вероятность выживания Kate		96,81%
 
 Ссылка на гугл-таблицу: https://docs.google.com/spreadsheets/d/1j-fNQrnAPp9sKOMx3E7SJ7FJoaxmWdGnpkYlL2aFxdk/edit?usp=sharing
